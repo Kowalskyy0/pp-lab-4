@@ -2,7 +2,7 @@ import employees.Employee;
 import employees.Manager;
 import employees.Worker;
 
-public class Main {
+public class Company {
     public static void main(String[] args) {
         Employee[] employees = new Employee[5];
 
